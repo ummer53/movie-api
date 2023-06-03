@@ -35,3 +35,7 @@ build/
 
 ### ENV Files####
 .env
+
+
+####frontend Folder ######
+./src/main/resources/static/frontend/

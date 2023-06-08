@@ -38,4 +38,4 @@ build/
 
 
 ####frontend Folder ######
-./src/main/resources/static/frontend/
+#./src/main/resources/static/frontend/

@@ -9,15 +9,15 @@
 		<version>3.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<!--	<groupId>dev.ummer</groupId>-->
-<!--	<artifactId>movies</artifactId>-->
-<!--	<version>0.0.1-SNAPSHOT</version>-->
-<!--	<name>movies</name>-->
 	<groupId>dev.ummer</groupId>
-	<artifactId>movie-app</artifactId>
-	<version>1.0-SNAPSHOT</version>
-	<packaging>war</packaging>
-	<description>movies api</description>
+	<artifactId>movies</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>movies</name>
+<!--	<groupId>dev.ummer</groupId>-->
+<!--	<artifactId>movie-app</artifactId>-->
+<!--	<version>1.0-SNAPSHOT</version>-->
+<!--	<packaging>war</packaging>-->
+<!--	<description>movies api</description>-->
 	<properties>
 		<java.version>17</java.version>
 	</properties>
